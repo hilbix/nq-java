@@ -1,0 +1,3 @@
+[submodule "jzmq"]
+	path = jzmq
+	url = https://github.com/zeromq/jzmq.git
